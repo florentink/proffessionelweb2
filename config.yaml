@@ -1,4 +1,4 @@
-baseURL: https://florentinweb.netlify.app
+baseURL: https://florentinweb.netlify.app/
 languageCode: en-us
 summaryLength: '10'
 theme: kross-hugo
